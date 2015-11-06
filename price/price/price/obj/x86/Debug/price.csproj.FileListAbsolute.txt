@@ -1,0 +1,7 @@
+E:\price\price\price\bin\x86\Debug\Content\arial.xnb
+E:\price\price\price\bin\x86\Debug\price.exe
+E:\price\price\price\bin\x86\Debug\price.pdb
+E:\price\price\price\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\price\price\price\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\price\price\price\obj\x86\Debug\price.exe
+E:\price\price\price\obj\x86\Debug\price.pdb

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallGame 2", "BallGame 2\BallGame 2\BallGame 2.csproj", "{37C5A65D-769D-4B3D-BE0E-C5B347A119B9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BallGame 2Content", "BallGame 2\BallGame 2Content\BallGame 2Content.contentproj", "{02C35632-946D-40DC-8E14-2AAD9776D23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C5A65D-769D-4B3D-BE0E-C5B347A119B9}.Debug|x86.ActiveCfg = Debug|x86
+		{37C5A65D-769D-4B3D-BE0E-C5B347A119B9}.Debug|x86.Build.0 = Debug|x86
+		{37C5A65D-769D-4B3D-BE0E-C5B347A119B9}.Release|x86.ActiveCfg = Release|x86
+		{37C5A65D-769D-4B3D-BE0E-C5B347A119B9}.Release|x86.Build.0 = Release|x86
+		{02C35632-946D-40DC-8E14-2AAD9776D23F}.Debug|x86.ActiveCfg = Debug|x86
+		{02C35632-946D-40DC-8E14-2AAD9776D23F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

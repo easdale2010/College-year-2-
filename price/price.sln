@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "price", "price\price\price.csproj", "{14457A82-43D8-41AD-BB8F-1E2ABD15EBED}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "priceContent", "price\priceContent\priceContent.contentproj", "{ACE4F143-F2AF-4450-A78F-9EA221339C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14457A82-43D8-41AD-BB8F-1E2ABD15EBED}.Debug|x86.ActiveCfg = Debug|x86
+		{14457A82-43D8-41AD-BB8F-1E2ABD15EBED}.Debug|x86.Build.0 = Debug|x86
+		{14457A82-43D8-41AD-BB8F-1E2ABD15EBED}.Release|x86.ActiveCfg = Release|x86
+		{14457A82-43D8-41AD-BB8F-1E2ABD15EBED}.Release|x86.Build.0 = Release|x86
+		{ACE4F143-F2AF-4450-A78F-9EA221339C0C}.Debug|x86.ActiveCfg = Debug|x86
+		{ACE4F143-F2AF-4450-A78F-9EA221339C0C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

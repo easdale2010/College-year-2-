@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>space.jpg</Source>
+      <Name>space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\space.xnb</Output>
+      <Time>2012-09-07T12:49:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>starwarsremoteball.png</Source>
+      <Name>starwarsremoteball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\starwarsremoteball.xnb</Output>
+      <Time>2012-09-07T12:49:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jordan.spritefont</Source>
+      <Name>Jordan</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Jordan.xnb</Output>
+      <Time>2012-09-08T21:11:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Windows Ding.wav</Source>
+      <Name>Windows Ding</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Windows Ding.xnb</Output>
+      <Time>2012-09-09T15:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Concrete Angel.mp3</Source>
+      <Name>Concrete Angel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Concrete Angel.xnb</Output>
+      <Extra>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Concrete Angel.wma</Extra>
+      <Time>2012-09-09T14:55:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PROTECTORS OF THE EARTH.mp3</Source>
+      <Name>PROTECTORS OF THE EARTH</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\PROTECTORS OF THE EARTH.xnb</Output>
+      <Extra>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\PROTECTORS OF THE EARTH.wma</Extra>
+      <Time>2012-09-09T15:02:18+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\HNC Games Dev\Programming\Pong\Pong\Pong\PongContent\</RootDirectory>
+      <LoggerRootDirectory>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\HNC Games Dev\Programming\Pong\Pong\Pong\PongContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\HNC Games Dev\Programming\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-26T00:03:07.0508+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

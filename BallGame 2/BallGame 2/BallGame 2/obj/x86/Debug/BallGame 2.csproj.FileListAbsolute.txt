@@ -1,0 +1,14 @@
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\bin\x86\Debug\Content\ball.xnb
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\bin\x86\Debug\BallGame 2.exe
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\bin\x86\Debug\BallGame 2.pdb
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\BallGame 2.exe
+C:\Users\10023003\Documents\Visual Studio 2010\Projects\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\BallGame 2.pdb
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\bin\x86\Debug\Content\ball.xnb
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\bin\x86\Debug\BallGame 2.exe
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\bin\x86\Debug\BallGame 2.pdb
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\BallGame 2.exe
+S:\year2\Programming\BallGame 2\BallGame 2\BallGame 2\obj\x86\Debug\BallGame 2.pdb
